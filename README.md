@@ -9,9 +9,6 @@ This is a website that deals with the various expected nutritional composition o
 
 ```plaintext
 .
-├── index.html
-├── styles/
-│   └── style.css
-├── scripts/
-│   └── main.js
+├── index.html 
+├── typo.css
 └── README.md
